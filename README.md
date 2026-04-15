@@ -4,6 +4,12 @@ Main objective was to display artist, title and release year within Discord stat
 Example: <br>
 <img width="313" height="60" alt="image" src="https://github.com/user-attachments/assets/5cd09618-76df-4dd1-9f3f-938ab13f556f" />
 
+Key Improvements:
+    MusicBrainz Integration: Unlike the original version, this fork uses the MusicBrainz API to fetch accurate release years for your tracks.
+    Deep Search Engine: Implemented a recursive search for some artists where standard API calls often fail due to regional formatting or specific tags.
+    Advanced Regex Cleaning: Automatically strips messy track titles (removes "Album Ver.", "(Instrumental)", and group member names in parentheses) before searching, ensuring much higher hit rates.
+    Smart Discord Formatting: Updates the Discord Presence to a cleaner, professional look:
+    
 # Last.fm Discord Rich Presence (RPC)
 
 A modern, localized, and lightweight Discord Rich Presence client for Last.fm. Show off what you're listening to with custom statistics and artwork.
