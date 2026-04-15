@@ -7,7 +7,8 @@ setup_logging(level=logging.INFO)
 
 def check_config():
     """Checks if the configuration is complete. If not, opens the GUI."""
-    if not all([USERNAME, API_KEY, API_SECRET]) or (USERNAME and "<" in str(USERNAME)):
+    PLACEHOLDERS = {"YOUR_API_KEY_HERE", "YOUR_API_SECRET_HERE", "YOUR_USERNAME_HERE"}
+    if not all([USERNAME, API_KEY, API_SECRET]) or any(placeholder in str(val) for val in [USERNAME, API_KEY, API_SECRET] for placeholder in PLACEHOLDERS):
         logging.warning("Configuration incomplete or placeholder detected. Opening settings...")
         from utils.gui import ConfigGUI
         import yaml
