@@ -30,23 +30,19 @@ https://github.com/user-attachments/assets/396ef42b-7929-4dac-b8d2-ce43172470f7
 
 ### Quick Start (Recommended)
 
-#### Running without UV (Classic way)
-If you prefer standard Python:
-
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/jqn17/last-fm-rpc-with-realease-year.git
    cd lastfm-rpc
    ```
-2. ## Configuration & API Setup
+2. **Configuration & API Setup**
 
 All settings are stored in `config.yaml`.
 You have to manually insert your last.fm API data into the file mentioned above:
 - **Last.fm API Key/Secret**: [Create them here](https://www.last.fm/api/account/create) or [view existing ones](https://www.last.fm/api/accounts).
 - **Last.fm Username**: Your public profile name.
 
-3. ## Install with Python
+3. **Install with Python**
     ```bash
     pip install .
     python main.py
