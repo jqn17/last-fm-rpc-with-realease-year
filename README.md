@@ -17,11 +17,7 @@ A modern, localized, and lightweight Discord Rich Presence client for Last.fm. S
 
 ### Features
 - **Real-time Sync**: Updates your Discord status as soon as you change tracks on Last.fm.
-- **Full Localization**: Support for English, Turkish, and Spanish.
-- **Dynamic Configuration**: Change settings (Username, API Keys, Language) on the fly without restarting.
 - **Smart Tracking**: Displays scrobble counts, artist stats, and "Loved" status.
-- **Auto-Update Checker**: Stay notified when a new version is released.
-- **Modern Stack**: Managed with `uv` for lightning-fast environment setup.
 
 ### Quick Start
 
