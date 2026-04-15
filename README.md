@@ -23,7 +23,7 @@ A modern, localized, and lightweight Discord Rich Presence client for Last.fm. S
 - **Auto-Update Checker**: Stay notified when a new version is released.
 - **Modern Stack**: Managed with `uv` for lightning-fast environment setup.
 
-### Quick Start (Recommended)
+### Quick Start
 
 1. **Clone the Repository**
    ```bash
