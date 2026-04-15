@@ -5,8 +5,8 @@ Example: <br>
 <img width="313" height="60" alt="image" src="https://github.com/user-attachments/assets/5cd09618-76df-4dd1-9f3f-938ab13f556f" />
 
 ### Key Improvements
-- **MusicBrainz Integration**: Unlike the original version, this fork uses the MusicBrainz API to fetch accurate release years for your tracks.
-- **Deep Search Engine**: Implemented a recursive search for artists where standard API calls often fail due to regional formatting or specific tags (e.g., K-pop group members solo/unit tracks).
+- **MusicBrainz Integration**: This fork uses the MusicBrainz API to fetch accurate release years for your tracks.
+- **Deep Search Engine**: Implemented a recursive search for artists where standard API calls often fail due to regional formatting or specific tags.
 - **Advanced Regex Cleaning**: Automatically strips messy track titles (removes "Album Ver.", "(Instrumental)", etc.) before searching, ensuring much higher hit rates.
 - **Smart Discord Formatting**: Updates the Discord Presence to a cleaner, professional look: `Artist • Track Title (Year)`.
 - **Anti-Ban Cache**: Added an in-memory caching system for MusicBrainz to prevent rate-limiting and protect your IP during long sessions.
