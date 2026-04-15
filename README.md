@@ -34,7 +34,7 @@ This project uses **uv** for the best experience. If you don't have it, install 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/fastfingertips/lastfm-rpc.git
+   git clone https://github.com/jqn17/last-fm-rpc-with-realease-year.git
    cd lastfm-rpc
    ```
 
