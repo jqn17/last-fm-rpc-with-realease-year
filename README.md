@@ -48,12 +48,12 @@ This project uses **uv** for the best experience. If you don't have it, install 
 
 ### Configuration & API Setup
 
-Note: If the app starts but the GUI doesn't appear, look for the icon in your System Tray (near the clock), right-click it, and select Settings.
-Then insert your last.fm api data:
+All settings are stored in `config.yaml`.
+You have to manually insert your last.fm API data into the file mentioned above:
 - **Last.fm API Key/Secret**: [Create them here](https://www.last.fm/api/account/create) or [view existing ones](https://www.last.fm/api/accounts).
 - **Last.fm Username**: Your public profile name.
 
-All settings are stored in `config.yaml`.
+
 
 ### Advanced Usage
 
