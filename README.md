@@ -1,3 +1,9 @@
+Modified version of: https://github.com/fastfingertips/lastfm-rpc
+
+Main objective was to display artist, title and release year within Discord status. <br>
+Example: <br>
+<img width="213" height="41" alt="image" src="https://github.com/user-attachments/assets/ea66f06d-3686-402d-9388-6c1a5ea0577f" />
+
 # Last.fm Discord Rich Presence (RPC)
 
 A modern, localized, and lightweight Discord Rich Presence client for Last.fm. Show off what you're listening to with custom statistics and artwork.
