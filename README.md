@@ -46,7 +46,7 @@ You have to manually insert your last.fm API data into the file mentioned above:
     ```bash
     pip install .
     python main.py
-    ``
+    ```
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
