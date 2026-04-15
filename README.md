@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/396ef42b-7929-4dac-b8d2-ce43172470f7
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/jqn17/last-fm-rpc-with-realease-year.git
-   cd lastfm-rpc
+   cd last-fm-rpc-with-realease-year
    ```
 2. **Configuration & API Setup**
 
