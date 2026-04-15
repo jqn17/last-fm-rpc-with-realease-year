@@ -2,7 +2,7 @@ Modified version of: https://github.com/fastfingertips/lastfm-rpc
 
 Main objective was to display artist, title and release year within Discord status. <br>
 Example: <br>
-<img width="213" height="41" alt="image" src="https://github.com/user-attachments/assets/ea66f06d-3686-402d-9388-6c1a5ea0577f" />
+<img width="313" height="60" alt="image" src="https://github.com/user-attachments/assets/5cd09618-76df-4dd1-9f3f-938ab13f556f" />
 
 # Last.fm Discord Rich Presence (RPC)
 
