@@ -1,0 +1,10 @@
+API:
+  KEY: "YOUR_API_KEY_HERE"
+  SECRET: "YOUR_API_SECRET_HERE"
+APP:
+  LANG: EN
+USER:
+  USERNAME: "YOUR_USERNAME_HERE"
+OPTIONS:
+  show_artist_scrobbles: false
+  show_album_name: false
