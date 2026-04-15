@@ -30,18 +30,19 @@ A modern, localized, and lightweight Discord Rich Presence client for Last.fm. S
    git clone https://github.com/jqn17/last-fm-rpc-with-realease-year.git
    cd last-fm-rpc-with-realease-year
    ```
-2. **Configuration & API Setup**
-
-All settings are stored in `config.yaml`.
-You have to manually insert your last.fm API data into the file mentioned above:
-- **Last.fm API Key/Secret**: [Create them here](https://www.last.fm/api/account/create) or [view existing ones](https://www.last.fm/api/accounts).
-- **Last.fm Username**: Your public profile name.
-
-3. **Install with Python**
+   
+2. **Install with Python**
     ```bash
     pip install .
     python main.py
     ```
+2. **Configure API Setup**
+
+An GUI will show up nad you will have to insert your last.fm API data into the file mentioned above:
+- **Last.fm API Key/Secret**: [Create them here](https://www.last.fm/api/account/create) or [view existing ones](https://www.last.fm/api/accounts).
+- **Last.fm Username**: Your public profile name.
+
+All settings are stored in `config.yaml`.
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
