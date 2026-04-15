@@ -23,11 +23,6 @@ A modern, localized, and lightweight Discord Rich Presence client for Last.fm. S
 - **Auto-Update Checker**: Stay notified when a new version is released.
 - **Modern Stack**: Managed with `uv` for lightning-fast environment setup.
 
-### Demo
-https://github.com/user-attachments/assets/396ef42b-7929-4dac-b8d2-ce43172470f7
-
----
-
 ### Quick Start (Recommended)
 
 1. **Clone the Repository**
@@ -50,3 +45,9 @@ You have to manually insert your last.fm API data into the file mentioned above:
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Demo
+https://github.com/user-attachments/assets/396ef42b-7929-4dac-b8d2-ce43172470f7
+
+---
+
